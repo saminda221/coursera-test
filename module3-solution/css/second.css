@@ -1,1 +1,39 @@
+#ccsl ul li a{
+	text-align: center;
+	color: black;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+#ccsl {
+	border: 1px solid black;
+}
+
+#menubar {
+	border-bottom: 2px solid black;
+}
+
+#mainlink{
+	color: black;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+#navigation {
+	background-color: grey;
+	border: 2px solid black;
+}
+
+h1 {
+	margin-top: 15px;
+	margin-bottom: 45px;
+}
+
+
+
+.jumbotron {
+	background-color: grey;
+	padding: 40px 40px 40px 40px;
+	
+}
 
